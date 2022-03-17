@@ -11,4 +11,8 @@ SERENA B
 =======
 This Line is added to the remote by ME
 >>>>>>> dfc1880338f7b3d08ed1070ecd55f5f9f5a95774
+<<<<<<< HEAD
 ********************
+=======
+++++++++++++++++
+>>>>>>> origin/main
